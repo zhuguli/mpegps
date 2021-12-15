@@ -1,6 +1,6 @@
 /*
 	MPEG-2 PS Header 
-	author:zky
+	author:zhuguli
 */
 #ifndef __MPEG_PS__H
 #define __MPEG_PS__H
