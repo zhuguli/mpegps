@@ -1,8 +1,7 @@
 /*
 	MPEG_PS
 	MPEG Program Stream decode pack
-	Author:zky	
-    2013-02-26
+	Author:zhuguli
     The Program Stream System Header contains a 14 bytes length
 	Partial Program Stream Pack header format as:
 	Name | Number of bits | Description 
